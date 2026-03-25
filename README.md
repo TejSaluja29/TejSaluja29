@@ -39,7 +39,7 @@ I am a **Computer Science student at Western University** with a passion for bui
 
 ## 📂 Featured Projects
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TejSaluja29&repo=insurance-churn-case&theme=tokyonight)
-
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TejSaluja29&repo=Restaurant-Database&theme=tokyonight)
 ---
 
 ## 📫 Let's Connect
