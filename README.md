@@ -1,6 +1,6 @@
 # Hi there, I'm Tejveer! 👋
 
-I am a **Computer Science student at Western University** with a passion for building efficient systems, exploring data-driven insights, and developing impactful software. Currently, I'm balancing academic rigor with hands-on projects ranging from assembly language to full-stack web development.
+I am a **Computer Science student at Western University** with a passion for building efficient systems, exploring data-driven insights, and developing impactful software. Through my courses, I've learned **Data Structures and Algorithms, Systems Tools, Software Engineering, Computer Organizations and Architecture, Data Science, Database Design, and Discrete Math/Structures**
 
 ---
 
@@ -13,13 +13,13 @@ I am a **Computer Science student at Western University** with a passion for bui
 
 ### Languages & Core
 ![My Skills](https://skillicons.dev/icons?i=java,python,c,html,css,js)
-> Learning *ARM Assembly*
-### Frameworks & Data Science
-![My Skills](https://skillicons.dev/icons?i=react,sklearn,bash)
+> Learning **ARM Assembly**
+### Frameworks & Tools
+![My Skills](https://skillicons.dev/icons?i=react,sklearn,bash,git)
 > *Proficient in **Pandas, NumPy, and MatPlotLib** for data analysis and visualization.*
 
-### Tools & Environment
-![My Skills](https://skillicons.dev/icons?i=git,github,vscode,maven)
+### Environments
+![My Skills](https://skillicons.dev/icons?i=github,vscode,maven,npm)
 
 ---
 
@@ -38,7 +38,7 @@ I am a **Computer Science student at Western University** with a passion for bui
 ---
 
 ## 📂 Featured Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TejSaluja29&repo=insurance-churn-case&theme=radical)](https://github.com/YOUR_USERNAME/Breach-Defense)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TejSaluja29&repo=insurance-churn-case&theme=tokyonight)
 
 ---
 
