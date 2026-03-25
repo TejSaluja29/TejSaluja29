@@ -12,7 +12,7 @@ I am a **Computer Science student at Western University** with a passion for bui
 ## 🛠️ Tech Stack
 
 ### Languages & Core
-![My Skills](https://skillicons.dev/icons?i=java,python,c,html,css,js)
+![My Skills](https://skillicons.dev/icons?i=java,python,c,mysql,html,css,js)
 > Learning **ARM Assembly**
 ### Frameworks & Tools
 ![My Skills](https://skillicons.dev/icons?i=react,sklearn,bash,git)
